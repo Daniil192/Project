@@ -1,4 +1,7 @@
 <html>
+  <head>
   <title>Все о самолётах</title>
   <h1>
-    <p style="text-align:right">Что такое самолет?</p>
+    <p><a href="https://avia.tutu.ru/plane/"<Производители</a></p>
+    <p style="text-align:center">Что такое самолет?</p>
+    
